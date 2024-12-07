@@ -1,4 +1,4 @@
-# TCPChat
+# Chat Room
 
 # WebSocket Chatroom Project
 
